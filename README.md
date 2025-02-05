@@ -55,9 +55,12 @@ php artisan serve
 Sekarang akses **http://127.0.0.1:8000** di browser! 🚀
 
 ## 🖼️ Preview
-
-![Halaman Utama QR Code Generator](public/screenshot/main-page.png)
-![Halaman QR Code QR Code Generator](public/screenshot/qrcode-page.png)
+Tampilan Halaman Utama
+![Halaman Utama QR Code Generator](public/images/main-page.png)
+Tampilan Halaman QR Code
+![Halaman QR Code QR Code Generator](public/iamges/qrcode-page.png)
+Hasil Scan
+![Halaman QR Code QR Code Generator](public/images/scan.png)
 
 ## 📜 Lisensi
 
