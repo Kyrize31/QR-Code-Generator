@@ -76,8 +76,8 @@ Atau langsung di Blade template:
 
 ## 🖼️ Preview
 
-![Halaman Utama QR Code Generator](public/images/main-page.png)
-![Halaman QR Code QR Code Generator](public/images/qrcode-page.png)
+![Halaman Utama QR Code Generator](public/screenshot/main-page.png)
+![Halaman QR Code QR Code Generator](public/screenshot/qrcode-page.png)
 
 ## 📜 Lisensi
 
