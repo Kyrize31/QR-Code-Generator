@@ -74,6 +74,11 @@ Atau langsung di Blade template:
 {!! QrCode::size(300)->generate('https://yourwebsite.com') !!}
 ```
 
+## 🖼️ Preview
+
+![Halaman Utama QR Code Generator](public/images/main-page.png)
+![Halaman QR Code QR Code Generator](public/images/qrcode-page.png)
+
 ## 📜 Lisensi
 
 Proyek ini menggunakan lisensi **MIT** – bebas digunakan dan dimodifikasi. 🚀
