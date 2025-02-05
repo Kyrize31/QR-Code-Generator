@@ -56,24 +56,6 @@ php artisan serve
 
 Sekarang akses **http://127.0.0.1:8000** di browser! 🚀
 
-## 🛠 Cara Penggunaan
-
-Di dalam controller, kamu bisa membuat QR Code seperti ini:
-
-```php
-use SimpleSoftwareIO\QrCode\Facades\QrCode;
-
-public function generateQR() {
-    return QrCode::size(300)->generate('https://yourwebsite.com');
-}
-```
-
-Atau langsung di Blade template:
-
-```blade
-{!! QrCode::size(300)->generate('https://yourwebsite.com') !!}
-```
-
 ## 🖼️ Preview
 
 ![Halaman Utama QR Code Generator](public/screenshot/main-page.png)
