@@ -8,9 +8,7 @@ Salah satu kekuatan Laravel adalah dukungan terhadap berbagai **library eksterna
 
 ## ✨ Fitur
 
--   🔹 Generate QR Code dengan teks atau URL custom
--   🎨 Bisa dikustomisasi (warna, ukuran, dan format)
--   📥 Download QR Code sebagai gambar
+-   🔹 Generate QR Code
 -   ⚡ Cepat dan mudah digunakan
 
 ## 📌 Instalasi
