@@ -58,9 +58,9 @@ Sekarang akses **http://127.0.0.1:8000** di browser! 🚀
 Tampilan Halaman Utama
 ![Halaman Utama QR Code Generator](public/images/main-page.png)
 Tampilan Halaman QR Code
-![Halaman QR Code QR Code Generator](public/iamges/qrcode-page.png)
+![Halaman QR Code QR Code Generator](public/images/qrcode-page.png)
 Hasil Scan
-![Halaman QR Code QR Code Generator](public/images/scan.png)
+![Halaman QR Code QR Code Generator](public/images/scan.jpg)
 
 ## 📜 Lisensi
 
